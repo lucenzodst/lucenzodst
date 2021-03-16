@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucenzodst
+- 📚 LM Computer engineering - cybersecurity field @ Polito
+- 🎓 Computer Engineering
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning new programming skills
